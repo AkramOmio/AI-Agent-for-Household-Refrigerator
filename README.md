@@ -11,39 +11,45 @@ Additionally, P–H and T–S diagrams are generated to visualize the thermodyna
 
 
 
-# Input_Value ====
-Enter condenser inlet temperature (°C): 72
-Enter condenser outlet temperature (°C): 44.2
-Enter air temperature (°C): 38
-Enter Engine temperature (°C): 70
-Enter evaporator temperature (°C): -30
-Enter Freezer Compartment temperature (°C): -26.1
-Enter Refrigerator Compartment temperature (°C): -2.5
-Enter suction temperature (°C): 34.4
-Enter compressor RPM: 3000
-Enter fridge model: 163L
-Enter compressor model: PZ65H1Y9
+### Agent Input Value ====
+#### Condenser inlet temperature (°C): 72
+#### Condenser outlet temperature (°C): 44.2
+#### Air temperature (°C): 38
+#### Engine temperature (°C): 70
+####  Evaporator temperature (°C): -30
+#### Freezer Compartment temperature (°C): -26.1
+#### Refrigerator Compartment temperature (°C): -2.5
+#### Suction temperature (°C): 34.4
+#### Compressor RPM: 3000
+#### Fridge Volume Dimension: 163L
+####  Compressor model: PZ65H1Y9
 
-# RESULTS ==========
+### RESULTS ==========
 System Mass Flow Rate (kg/h): 0.979
 
-# Condenser ----
-Total Length : 18.52 m
-L_vapor : 3.20 m
-L_tp : 15.04 m
-L_liq : 0.28 m
+### Condenser ----
+#### Total Length : 18.52 m
+#### L_vapor : 3.20 m
+#### L_two_Phase : 15.04 m
+#### L_liquid Phase : 0.28 m
 
-# Capillary_Tube ----
-Total Length : 2.14 m
-L_adibatic : 0.34 m
-L_non_adibatic : 1.79 m
+### Capillary_Tube ----
+#### Total Length : 2.14 m
+#### L_adibatic : 0.34 m
+#### L_non_adibatic : 1.79 m
 
-# Evaporator ----
-Total Length : 13.66 m
-Length_of_ Freezer Compartment(L_PC) : 4.66 m
-Length_of_Freezer Compartment (L_FC) : 9.00 m
+### Evaporator ----
+#### Total Length : 13.66 m
+#### Length_of_ Freezer Compartment(L_PC) : 4.66 m
+#### Length_of_Freezer Compartment (L_FC) : 9.00 m
 
-# Total_Circuit_Length ----
-Total Length : 34.31 m
+### Total_Circuit_Length ----
+#### Total Length : 34.31 m
+
+### P-H and T-S Diagram
 
 
+
+![1772963098011](https://github.com/user-attachments/assets/506339d8-fe94-4208-8369-01a3864af3a0)
+
+![1772963098151](https://github.com/user-attachments/assets/80d07570-9cde-4a3d-8187-409b86503bdd)
